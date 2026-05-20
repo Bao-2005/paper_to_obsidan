@@ -9,6 +9,7 @@ import 'package:path/path.dart' as p;
 import 'package:shared_preferences/shared_preferences.dart';
 
 //Test kodus here
+//Test kodus here 2 2 2
 void main() {
   runApp(const PaperToObsidianApp());
 }
